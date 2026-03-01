@@ -1,16 +1,28 @@
-## Hi there 👋
+👨‍💻 About Me
 
-<!--
-**sarib300/sarib300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
+⚛️ React.js Developer
+🌐 Building scalable applications with Node.js
+☁️ Learning and implementing AWS cloud services
+🚀 Future MERN Stack Engineer
+🔥 Dedicated to continuous learning and professional growth
 
-Here are some ideas to get you started:
+🌐 Socials:
+Instagram LinkedIn email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C++ CSS3 HTML5 JavaScript AWS Cloudflare Firebase Vercel Bootstrap Express.js jQuery NPM Next JS NodeJS React Router React React Native Semantic UI React TailwindCSS Vite Nginx MongoDB MySQL Adobe Illustrator Canva Figma Git GitHub
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
