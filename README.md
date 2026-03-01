@@ -1,4 +1,3 @@
-# 💫 About Me:
 👨‍💻 About Me<br><br>🎓 Computer Science Graduate  <br>⚛️ React.js Developer  <br>🌐 Building scalable applications with Node.js  <br>☁️ Learning and implementing AWS cloud services  <br>🚀 Future MERN Stack Engineer  <br>🔥 Dedicated to continuous learning and professional growth  
 
 
